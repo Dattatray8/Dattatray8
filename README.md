@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
 </p>
 
 ---
@@ -46,27 +46,19 @@
 
 ---
 
-## 💡 Projects
-- 🛍 **E-Commerce Website** — Built using MERN Stack
-- 📂 **Portfolio Website** — Coming Soon
-
----
-
-## 📫 Connect With Me
-<p align="center">
+## 🌐 Let's Connect!
+<div align="center">
   <a href="https://www.linkedin.com/in/dattatray-mahindrakar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/iamdattatray8" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" />
-  </a>
+ <a href="https://x.com/iamdattatray8" target="_blank"> <img src="https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a>
   <a href="mailto:dattatraymahindrakar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Dattatray8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
 ---
 
