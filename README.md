@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" width="50" height="50" alt="Thunder Client" />
 </p>
 
 ---
