@@ -9,14 +9,6 @@
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Backend Development & Databases**
-- 📂 Portfolio: *Coming Soon*
-- 📧 Email: **dattatraymahindrakar@gmail.com**
-
----
-
 ## 🚀 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
