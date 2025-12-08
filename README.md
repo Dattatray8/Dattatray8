@@ -9,6 +9,13 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+- **Name:** Dattatray Mahindrakar
+- **Portfolio:** [dattatray.onrender.com](https://dattatray.onrender.com/)
+
+---
+
 ## 🚀 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
