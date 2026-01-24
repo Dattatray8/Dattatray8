@@ -60,6 +60,8 @@ Currently Learning
 ## 📊 GitHub Statistics
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dattatray8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Dattatray8&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Dattatray8&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)" alt="GitHub Status" />
+  <img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Dattatray8&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatray8&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)" alt="GitHub Top Language" />
 </div>
 
 ---
