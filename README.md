@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Web+Developer+%F0%9F%92%BB;Exploring+Next.js+%F0%9F%92%BB;Building+Real+World+Projects+%F0%9F%8C%90;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Exploring+Next.js+%F0%9F%92%BB;Building+Real+World+Projects+%F0%9F%8C%90;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ```javascript
 const dattatray = {
     name: "Dattatray Mahindrakar",
-    role: "Aspiring Full Stack Developer",
+    role: "Full Stack Developer",
     location: "Pimpri, Maharashtra, IN",
     portfolio: "https://dattatray.onrender.com",
     learning: ["Next.js, TypeScrpit"],
