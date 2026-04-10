@@ -1,7 +1,5 @@
 <div align="center">
-
-<!--<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=200&section=header&text=%3C%2FDattatray%3E&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=%E2%86%92%20Full-Stack%20Dev%20who%20ships%20real%20products&descSize=15&descAlignY=72&descColor=a8d8ea" width="100%"/>
--->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dattatray%20Mahindrakar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
@@ -39,7 +37,6 @@ $ cat developer.json
   "city"    : "Pimpri, Maharashtra 🇮🇳",
   "focus"   : [
     "AI-integrated apps",
-    "Real-time architectures",
     "Scalable backend systems"
   ],
   "shipping": "Docless AI — assistant-as-a-service",
@@ -131,4 +128,4 @@ $ uptime
 
 </div>
 
-<!--<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" width="100%"/>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=120&section=footer" width="100%"/>
