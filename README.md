@@ -1,114 +1,134 @@
-<!-- Banner with Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dattatray%20Mahindrakar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<!--<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=200&section=header&text=%3C%2FDattatray%3E&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=%E2%86%92%20Full-Stack%20Dev%20who%20ships%20real%20products&descSize=15&descAlignY=72&descColor=a8d8ea" width="100%"/>
+-->
 </div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Exploring+Next.js+%F0%9F%92%BB;Building+Real+World+Projects+%F0%9F%8C%90;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=const+role+%3D+%22Full-Stack+Developer%22%3B;const+passion+%3D+%22AI+%2B+Real-Time+Systems%22%3B;const+status+%3D+%22Building+Docless+AI+%F0%9F%9A%80%22%3B;console.log(%22Let%27s+build+something+real%22)%3B" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_dattatray.onrender.com-111827?style=flat-square&logoColor=white)](https://dattatray.onrender.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/in-dattatray--mahindrakar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattatray-mahindrakar)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@iamdattatray8-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/iamdattatray8)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-dattatraymahindrakar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dattatraymahindrakar@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### `whoami`
 
-```javascript
-const dattatray = {
-    name: "Dattatray Mahindrakar",
-    role: "Full Stack Developer",
-    location: "Pimpri, Maharashtra, IN",
-    portfolio: "https://dattatray.onrender.com",
-    learning: ["Next.js, TypeScrpit"],
-    goals: "Building impactful web applications 🎯"
-};
+```bash
+$ cat developer.json
 ```
 
-- 🔭 Currently working on **Full Stack Web Projects**
-- 🌱 Learning **Next.js & TypeScript**
-- 💡 Passionate about **user-friendly interfaces**
-- 📫 Reach me at **dattatraymahindrakar@gmail.com**
+```json
+{
+  "name"    : "Dattatray Mahindrakar",
+  "title"   : "Full-Stack Developer",
+  "city"    : "Pimpri, Maharashtra 🇮🇳",
+  "focus"   : [
+    "AI-integrated apps",
+    "Real-time architectures",
+    "Scalable backend systems"
+  ],
+  "shipping": "Docless AI — assistant-as-a-service",
+  "learning": ["TypeScript", "Next.js deep-dive"],
+  "openTo"  : "Interesting problems 🤝"
+}
+```
+
+```bash
+$ echo "Real systems. Not just projects."
+> Real systems. Not just projects.
+```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<br/>
-Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
-</p>
-Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
-</p>
-Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Tools" />
-</p>
-Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,redis" alt="Learning" />
-</p>
+### `ls ./projects`
+
+```
+📁 QuerySphere/    → Real-time Q&A + AI + role-based access system
+📁 Yaariverse/     → Social platform with live chat & AI captions  
+📁 DoclessAI/      → [WIP] Assistant-as-a-service platform
+```
+
+> `git log --oneline` — Check pinned repos for commits & live demos 👇
 
 ---
 
-## 📊 GitHub Statistics
+### `cat stack.txt`
+
 <div align="center">
 
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Dattatray8&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" />
-
-  <img
-       src="https://github-readme-stats.vercel.app/api?username=Dattatray8&theme=highcontrast&show_icons=true&hide_border=false&count_private=false" 
-       alt="GitHub Stats" />
-
-  <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatray8&theme=highcontrast&hide_border=false&layout=compact" 
-       alt="Top Languages" />
+```
+┌─────────────────────────────────────────────────────────┐
+│                    DATTATRAY'S STACK                    │
+├──────────────┬──────────────────────────────────────────┤
+│  Frontend    │  React · Next.js · Tailwind CSS          │
+│  Backend     │  Node.js · Express.js                    │
+│  Database    │  MongoDB · PostgreSQL                    │
+│  Realtime    │  Socket.IO                               │
+│  AI/ML       │  RAG · Semantic Search · LLM APIs        │
+│  Learning    │  TypeScript · Advanced Next.js           │
+└──────────────┴──────────────────────────────────────────┘
+```
 
 </div>
-
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dattatray8&custom_title=Dattatray's%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area_color=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,ts,git,github,vercel,vscode,postman" />
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### `git stats --global`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dattatray-mahindrakar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/iamdattatray8" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:dattatraymahindrakar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Dattatray8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://dattatray.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=Dattatray8&theme=merko&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=7EE8A2&currStreakNum=ffffff&sideNums=ffffff&dates=7EE8A2" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Dattatray8&show_icons=true&theme=merko&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=7EE8A2&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dattatray8&layout=compact&theme=merko&hide_border=true&border_radius=8&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="170"/>
+
 </div>
 
 ---
-<p align="center">
-  ⭐ <b><i>"Clean code, efficient solutions, impactful results."</i></b> ⭐
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=120&section=footer" width="100%"/>
+### `tail -f activity.log`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dattatray8&custom_title=Dattatray%27s%20Commits&bg_color=0d1117&color=00d9ff&line=00d9ff&point=7ee8a2&area=true&area_color=00d9ff30&hide_border=true" width="96%" alt="Activity Graph"/>
 </div>
+
+---
+
+<div align="center">
+
+```bash
+$ uptime
+> Always building. Always shipping. ⚡
+```
+
+<img src="https://komarev.com/ghpvc/?username=Dattatray8&style=flat-square&color=00d9ff&label=visitors" alt="Profile Views" />
+
+</div>
+
+<!--<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" width="100%"/>-->
